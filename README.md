@@ -27,6 +27,7 @@ Preprocessed input objects, raw outputs and supplementary data tables are availa
   * Figure S12: Clustering of impurity-associated changes from the stage models
   * Figure S13: Comparison of differential alternative splicing effects and differential gene expression changes
   * Figure S14: Relationship between fraction of normal samples and significant events
+  * Figure S15: Comparison of TRex DAS effect sizes vs Khales2018 across cancers 
 * `Figure 5`
   * **Figure 5:** KIRC case study of tumour associated AS programs
   * Figure S15: KIRC case study 
