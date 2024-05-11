@@ -1,7 +1,8 @@
 # TRex manuscript
 
 Reproducible notebooks and analysis pipelines of manuscript titled "Alternative splicing programs in tumor development and progression".
-Preprocessed input objects, raw outputs and supplementary data tables are available in the Zenodo collection [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10788868.svg)](https://doi.org/10.5281/zenodo.10788868)
+Preprocessed input objects, raw outputs and supplementary data tables are available in the Zenodo collection [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11179654.svg)](https://doi.org/10.5281/zenodo.11179654)
+
 
 ## Contents
 
