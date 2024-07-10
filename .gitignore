@@ -1,3 +1,28 @@
+# Data folders and large files 
+**/input/
+**/output/
+**/data/
+**/tmp
+**/tmp_output
+**/results/
+.RData
+.fq
+.gz
+.tgz
+.tar
+.bam
+.ioe
+.gtf
+.RDS
+.tgz
+.pdf
+.jpeg
+.png
+**/logs/
+**/outs/
+**/.ipynb_checkpoints/
+**/zenodo_tarfiles/
+
 # History files
 .Rhistory
 .Rapp.history
@@ -5,6 +30,7 @@
 # Session Data files
 .RData
 .RDataTmp
+.ipynb_checkpoints/
 
 # User-specific files
 .Ruserdata
