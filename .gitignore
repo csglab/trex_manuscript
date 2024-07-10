@@ -5,23 +5,35 @@
 **/tmp
 **/tmp_output
 **/results/
-.RData
-.fq
+**/logs/
+**/outs/
+**/figures/
+**/.ipynb_checkpoints/
+**/zenodo_tarfiles/
+
+# Large files 
+.csv
+.tsv
+.pdf
+.png
+.jpeg
+.svg
+.tiff
+
 .gz
-.tgz
 .tar
+.tgz
+
+.RData
+.RDS
+
+.fa
+.fq
+.fasta
+.fastq
 .bam
 .ioe
 .gtf
-.RDS
-.tgz
-.pdf
-.jpeg
-.png
-**/logs/
-**/outs/
-**/.ipynb_checkpoints/
-**/zenodo_tarfiles/
 
 # History files
 .Rhistory
