@@ -35,6 +35,9 @@
 .ioe
 .gtf
 
+# Object generation 
+*_prepare_inputs.ipynb
+
 # History files
 .Rhistory
 .Rapp.history
